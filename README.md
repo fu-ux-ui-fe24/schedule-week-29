@@ -19,12 +19,16 @@ Under torsdagens Code Review kommer ni att få chansen att för-testa era protot
 ### Filmer
 * [Föreläsning Interaktiva Prototyper](https://vimeo.com/750375247/9c5b4151a3)
 * [Föreläsning Tester](https://vimeo.com/750373880/0a7804814c?share=copy)
+* [Introducing a Participant to a Usability Test: A Demonstration](https://www.youtube.com/watch?v=bcfqmx2hnUQ)
+* [Prototype & Test in Figma](https://www.youtube.com/watch?v=pijzYKAOluw)
 
 
 ### Länkar
 * [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
 * [First rule of usability - dont listen to users](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/)
-* 
+* [Testrapport - Eyetracking](https://drive.google.com/file/d/1PQ7jjj2yIGOHVc1tEtuiZOZ0l3zZDxtI/view?usp=sharing)
+* [Testplan - Ozlab](https://drive.google.com/file/d/1PkxunLA3K5AJDP5giwr2Kk7FaGis2S_H/view?usp=sharing)
+* [Testrapport - Ozlab](https://drive.google.com/file/d/1J0y1qm0kUS4-USpSjf8N37A5adByq9V8/view?usp=sharing)
 
 ### Övningar
 * [Gruppexamination](https://github.com/fu-ux-ui-fe24/exam-team-design-thinking-process/tree/main)

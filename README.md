@@ -8,7 +8,7 @@ Nu har vi kommit fram till den sista undervisningsveckan i kursen, och vad passa
 Under torsdagens Code Review kommer ni att få chansen att för-testa era prototyper på era klasskamrater. Schema och instruktioner för testandet kommer inom kort.
 
 ## Mål för veckan:
-1. Förståelse vad betydelsen av användartester
+1. Förståelse för betydelsen av användartester
 2. Förstå hur man genomför användartester
 
 ## Resurser
